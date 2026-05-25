@@ -1,0 +1,19 @@
+# Churn Distribution
+
+Most customers remained retained, but a significant percentage churned, indicating opportunities for retention-focused strategies.
+
+
+# Contract Type vs Churn
+
+Customers with shorter contract commitments showed significantly higher churn rates, suggesting that long-term contracts improve customer retention.
+
+
+# Average Monthly Charges
+
+Customers with higher monthly charges tend to churn more frequently.
+Pricing sensitivity may influence customer retention, especially among premium-paying users.
+
+
+# Tenure vs Churn
+
+Customer retention strategies should focus heavily on onboarding and early engagement periods.
